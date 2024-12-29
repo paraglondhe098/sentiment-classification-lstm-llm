@@ -1,5 +1,6 @@
-./artifacts
-./data
-./results
-./logs
-./.ipynb_checkpoints
+/artifacts
+/data
+/results
+/logs
+/.ipynb_checkpoints
+/.idea
